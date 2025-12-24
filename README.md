@@ -18,5 +18,4 @@ Simple calculator built in C to perform addition, subtraction, multiplication, a
 - Function-based operations
 
 ## Author
-Your Name  
-Computer Science Student
+Shreya RJ
